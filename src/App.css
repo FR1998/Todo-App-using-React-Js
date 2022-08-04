@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+.form-group1{
+  color:black;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15%;
+  margin-left: 25%;
+}
+
+.form-group2{
+  color:black;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2%;
+  margin-left: 25.5%;
+}
+
+.form-group3{
+  color:black;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2%;
+  margin-left: 20%;
+  border-radius: 2%;
+  border-color: blue;
+}
+
+.FormColor{
+  background-color: #42cf42;
+  width: 500px;
+  height: 400px;
+  margin: auto;
+  margin-top: 70px;
+  border: 3px solid #73AD21;
+}
+
+h1{
+color: black;
+margin-left: 140px;
+}
+
+h2{
+  color: rgba(248, 4, 4, 0.671);
+  margin-left: 480px;
+  }
+
+.btn-success
+{
+  margin-left: 210px;
+}
+
+.error{
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+
