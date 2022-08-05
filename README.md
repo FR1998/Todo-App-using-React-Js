@@ -19,6 +19,15 @@ ii) Todo ( In start all Todo's will be shown in table , Retreive the
        
 # UI
 
+![Screenshot (77)](https://user-images.githubusercontent.com/107143531/183218246-450c6a3d-21e5-4405-8c42-ee67d8420cc1.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/107143531/183218251-d5a0cb49-2f1e-4eb6-b249-357341a9920c.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/107143531/183218214-a6b6a14c-f56a-4c19-9272-c1d4055f06f1.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/107143531/183218217-0649c348-ec79-4f0e-bf87-37ee47f01838.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/107143531/183218222-071b5446-9ef5-4e11-a106-8388c1ad61e1.png)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
