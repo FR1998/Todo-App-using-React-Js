@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Task Details
+
+Building a simple Todo App.
+The App has two components 
+i) Login ( you may assume user already registered)
+ii) Todo ( In start all Todo's will be shown in table , Retreive the
+      initial data from API "https://jsonplaceholder.typicode.com/todos")
+   i) Add todo
+   ii) Update todo
+   iii) Delete todo
+    iv) Search Todo
+    v) One button for going back to Login Component
+    vi) If the user is not signed in, he/she will not be able to
+       go to / access the todo component
+       
+# UI
+
 ## Available Scripts
 
 In the project directory, you can run:
